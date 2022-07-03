@@ -1,2 +1,1 @@
-# git_stud
-Geekbrains Training Materials
+Какой-то текст с описанием
